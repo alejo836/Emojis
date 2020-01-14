@@ -8,8 +8,7 @@ h1 {
     text-transform: uppercase;
 }
 
-h2 {
-    font-size: 180%;
+p.principio {
     color: orange;
 }
 p {
