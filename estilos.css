@@ -1,0 +1,29 @@
+body {
+    background-color: lightgoldenrodyellow;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: rgb(163, 135, 97);
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 180%;
+    color: orange;
+}
+p {
+    font-size: 2rem;
+}
+
+summary {
+    font-size: 4rem;
+}
+
+span.par {
+    background-color: white;
+}
+
+span.impar {
+    background-color: plum;
+}
